@@ -1,2 +1,10 @@
-# dev_udacity_blogpost
-This blogpost shows...
+# Write a Data Science blog post
+Project: Udacity Data Scientist Nanodegree
+## Medium Blog Post
+## Table of Contents
+## Project Motivation
+## Installation
+## Libraries
+## Dataset Description
+## Results
+
