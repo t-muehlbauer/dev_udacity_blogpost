@@ -8,10 +8,10 @@ With the following link you can see the entire Medium Blog Post:
 This is a Udacity Nanodegree project on the impact of the COVID-19 pandemic on German society between 2019 and 2021. Two analog social surveys were conducted by GESIS in 2018 and 2021. My personal interest in the social developments during the pandemic has led me to ask the following questions:
 
 How did the COVID-19 pandemic impact German society in terms of:
-1. Perception of luck and satisfaction with life (ls01)
-2. Trust in the government (pt12, ps01)
-3. Trust in the television (pt09)
-4. Behavior in the election (pv01)
+1. Perception of luck and satisfaction with life (column: ls01)
+2. Trust in the government (columns: pt12, ps01)
+3. Trust in the television (column: pt09)
+4. Behavior in the election (column: pv01)
 
 The responses of the population are classified into social classes based on how the participants perceive themselves. (F035 - id02)
 
