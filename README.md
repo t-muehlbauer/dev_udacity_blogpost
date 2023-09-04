@@ -13,7 +13,7 @@ How did the COVID-19 pandemic impact German society in terms of:
 3. Trust in the television (column: pt09)
 4. Behavior in the election (column: pv01)
 
-The responses of the population are classified into social classes based on how the participants perceive themselves. (F035 - id02)
+The responses of the population are classified into social classes based on how the participants perceive themselves. (column: id02)
 
 ## Installation and Libraries
 The code is compatible with Python version 3.* and relies on the following libraries:
