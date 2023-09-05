@@ -9,7 +9,7 @@ This is a Udacity Nanodegree project on the impact of the COVID-19 pandemic on G
 
 How did the COVID-19 pandemic impact German society in terms of:
 1. Perception of luck and satisfaction with life (column: ls01)
-2. Trust in the government (columns: pt12, ps01)
+2. Trust in the government (columns: pt12)
 3. Trust in the television (column: pt09)
 4. Behavior in the election (column: pv01)
 
@@ -23,6 +23,8 @@ The code is compatible with Python version 3.* and relies on the following libra
 4. Matplotlib.pyplot
 5. Collections
 6. Math
+7. Seabordn
+8. Skipy
 To install these libraries, please run "pip install -r requirements.txt" command on the command line.
 
 ## Dataset Description
