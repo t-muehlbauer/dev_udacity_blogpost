@@ -10,8 +10,7 @@ This is a Udacity Nanodegree project on the impact of the COVID-19 pandemic on G
 How did the COVID-19 pandemic impact German society in terms of:
 1. Perception of luck and satisfaction with life (column: ls01)
 2. Trust in the government (columns: pt12)
-3. Trust in the television (column: pt09)
-4. Behavior in the election (column: pv01)
+3. Voting Behaviour (column: pv01)
 
 The responses of the population are classified into social classes based on how the participants perceive themselves. (column: id02)
 
