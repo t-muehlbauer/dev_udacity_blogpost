@@ -1,5 +1,6 @@
 # Ignore data
 data/
+20230907_Datascienceblog.docx/
 
 # Ignore Jupyter Checkpoints
 .ipynb_checkpoints
