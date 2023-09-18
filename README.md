@@ -2,7 +2,7 @@
 Project: Udacity Data Scientist Nanodegree
 
 ## Medium Blog Post
-With the following link you can see the entire Medium Blog Post: 
+With the following link you can see the entire [Medium Blog](https://medium.com/@thomas-muehlbauer/how-did-the-covid-19-pandemic-impact-german-society-and-its-various-social-classes-ce2c6043d28f) Post here.
 
 ## Project Motivation
 This is a Udacity Nanodegree project on the impact of the COVID-19 pandemic on German society between 2019 and 2021. Two analog social surveys were conducted by GESIS in 2018 and 2021. My personal interest in the social developments during the pandemic has led me to ask the following questions:
@@ -34,5 +34,5 @@ This project is based on the ALLBUS dataset - the German General Social Survey.
 
 After registering, all the datasets can be downloaded from.: https://www.gesis.org/en/allbus/download/download-cross-sectional-studies
 
-## Results
-The analysis of the datasets yielded the following results, which allowed for the following questions to be answered:
+## Conclusion
+In conclusion, the analysis of two large datasets from the German General Social Survey (ALLBUS) for the years 2018 and 2021 showed significant changes in satisfaction with life, trust in the federal government, and voting behavior in Germany during the Covid-19 pandemic. The findings suggest that the Covid-19 pandemic has had a significant impact on the perception of social class, with some individuals experiencing upward mobility, and others identifying more with the working class. The analysis also revealed that trust in the federal government slightly decreased across all social classes, indicating a potential erosion of trust in government, especially during times of crisis.
