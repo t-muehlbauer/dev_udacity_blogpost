@@ -2,7 +2,7 @@
 Project: Udacity Data Scientist Nanodegree
 
 ## Medium Blog Post
-With the following link you can see the entire [Medium Blog](https://medium.com/@thomas-muehlbauer/how-did-the-covid-19-pandemic-impact-german-society-and-its-various-social-classes-ce2c6043d28f) Post here.
+With the following link you can see the entire [Medium Blog Post](https://medium.com/@thomas-muehlbauer/how-did-the-covid-19-pandemic-impact-german-society-and-its-various-social-classes-ce2c6043d28f) here.
 
 ## Project Motivation
 This is a Udacity Nanodegree project on the impact of the COVID-19 pandemic on German society between 2019 and 2021. Two analog social surveys were conducted by GESIS in 2018 and 2021. My personal interest in the social developments during the pandemic has led me to ask the following questions:
